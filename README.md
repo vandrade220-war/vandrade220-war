@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Vinícius Andrade 👍
 
 
-![Vinícius Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=vandrade220-war&show_icons=true&theme=transparent)
+![Vinícius Andrade da Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandrade220-war&show_icons=true&theme=radical)
 
 
 
