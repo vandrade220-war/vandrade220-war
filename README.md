@@ -1,7 +1,8 @@
 ### Olá, Eu sou o Vinícius Andrade 👍
 
+![Vinícius GitHub stats](https://github-readme-stats-zeta-ivory-19.vercel.app/api?username=vandrade220-war&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
 
-![Vinícius Andrade da Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandrade220-war&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vandrade220-war&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
