@@ -14,7 +14,10 @@ Aqui estão alguns dos meus projetos:
 
 Galeria de Arte: https://github.com/vandrade220-war/galeria-arte | https://galeria-arte.streamlit.app/
 Site para fomentar o consumo a arte feito em streamlit python conectado a API da wikipédia.
+<img width="1788" height="869" alt="image" src="https://github.com/user-attachments/assets/293ee9f6-92ac-4fff-be55-96b0c21c4036" />
 O projeto está em constante aprimoramento, então se encontrar ele crashado, não ligue 😊
 
-Cars: 
+Carros: 
+AutoClassificados é um projeto web desenvolvido em Django para cadastro, listagem e gerenciamento de veículos. O sistema conta com autenticação de usuários, upload de imagens, integração com banco de dados PostgreSQL e uma funcionalidade opcional de geração automática de descrição dos carros com inteligência artificial. https://github.com/vandrade220-war/carros
+<img width="1240" height="824" alt="image" src="https://github.com/user-attachments/assets/d7107707-94a6-4910-97c1-08f7aafd5d1e" />
 
