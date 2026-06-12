@@ -22,3 +22,6 @@ O projeto está em constante aprimoramento, então se encontrar ele crashado, n�
 AutoClassificados é um projeto web desenvolvido em Django para cadastro, listagem e gerenciamento de veículos. O sistema conta com autenticação de usuários, upload de imagens, integração com banco de dados PostgreSQL e uma funcionalidade opcional de geração automática de descrição dos carros com inteligência artificial. https://github.com/vandrade220-war/carros
 <img width="1240" height="824" alt="image" src="https://github.com/user-attachments/assets/d7107707-94a6-4910-97c1-08f7aafd5d1e" />
 
+### Agente LangChain com acesso a banco de dados IBGE (ainda em construção)
+https://github.com/vandrade220-war/Agent_database/
+Projeto desenvolvido para explorar o uso de agentes inteligentes com LangChain na análise de dados estruturados em bancos SQL. A aplicação permite fazer perguntas em linguagem natural sobre dados do Censo Demográfico de 2022, enquanto o agente interpreta a solicitação, consulta o banco SQLite e retorna uma resposta organizada.
