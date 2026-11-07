@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Vinícius Andrade 👍
 Atualmente curso ciência da informação pela Universidade Federal de Santa Catarina
 Meu foco atual é na linguagem python e mais específicamente no framework Django.
+Toda via entretanto, estou estudando JavaScript também. Sou fã de IA. 
 
-![Vinícius GitHub stats](https://github-readme-stats-zeta-ivory-19.vercel.app/api?username=vandrade220-war&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vandrade220-war&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
