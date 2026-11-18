@@ -12,6 +12,16 @@ Toda via entretanto, estou estudando JavaScript também. Sou fã de IA.
 
 Aqui estão alguns dos meus projetos: 
 
+### Confirma Ai!!
+Aplicativo para gerenciamento de eventos!!
+Feito em parceria com meu colega Gustavo Mai (https://github.com/Gustavo2059)
+https://github.com/Gustavo2059/Confirma_eventos
+
+https://github.com/user-attachments/assets/2af64348-76d5-49df-a469-b3c67a7ab7ae
+
+
+
+
 ### Galeria de Arte:
 https://github.com/vandrade220-war/galeria-arte | https://galeria-arte.streamlit.app/
 Site para fomentar o consumo a arte feito em streamlit python conectado a API da wikipédia.
